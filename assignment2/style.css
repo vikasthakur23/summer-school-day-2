@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+  }
+  
+  ul {
+    list-style-type: circle;
+    padding-left: 20px;
+  }
+  
+  .contact a {
+    text-decoration: none;
+  }
+  
